@@ -32,4 +32,4 @@ Tired of switching tabs to manage your tasks? Introducing a sleek Chrome extensi
 For any issues or questions, please [open an issue](https://github.com/Tereshaa/To-do-Chrome-Extension/issues) here on GitHub.
 
 
-Feel free to adjust the formatting and replace placeholders with actual links and details specific to your extension. This README format provides clear instructions for installation, customization, and support, making it easy for users to get started with your Chrome extension.
+Feel free to adjust the formatting and replace placeholders with actual links and details specific to your extension. 
