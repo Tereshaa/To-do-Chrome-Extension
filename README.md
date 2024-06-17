@@ -2,7 +2,7 @@
 
 Tired of switching tabs to manage your tasks? Introducing a sleek Chrome extension for your daily to-dos! Say goodbye to clutter and hello to productivity with our easy-to-use task manager. Made for the lazy in all of us (we get it), because sometimes, opening another tab is just one tab too many. Embrace simplicity. Embrace focus. Get the extension now and start conquering your day, one task at a time!
 
-![Extension Preview](https://github.com/Tereshaa/To-do-Chrome-Extension/assets/106382420/1de88cdb-bad0-46ef-a187-309ea239c9e0)
+
 
 ## Installation Instructions
 
@@ -19,6 +19,7 @@ Tired of switching tabs to manage your tasks? Introducing a sleek Chrome extensi
 
 3. **Load the Extension:**
    - Click on `Load unpacked` and upload the folder containing the extension files.
+![Extension Preview](https://github.com/Tereshaa/To-do-Chrome-Extension/assets/106382420/1de88cdb-bad0-46ef-a187-309ea239c9e0)
 
 4. **Customize and Use:**
    - You can make custom changes to the downloaded code to suit your preferences and use it on your machines.
