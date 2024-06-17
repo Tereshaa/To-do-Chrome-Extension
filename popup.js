@@ -75,7 +75,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // Create edit icon
         const editIcon = document.createElement('i');
         editIcon.classList.add('fas', 'fa-edit', 'edit-icon');
-        editIcon.addEventListener('click', function() {
+        editIcon.addEventListener('click', function(event) {
+            event.stopPropagation(); // Prevent task click event
             editTaskStart(task);
         });
         li.appendChild(editIcon);
@@ -83,7 +84,8 @@ document.addEventListener('DOMContentLoaded', function() {
         // Create delete icon
         const deleteIcon = document.createElement('i');
         deleteIcon.classList.add('fas', 'fa-trash', 'delete-icon');
-        deleteIcon.addEventListener('click', function() {
+        deleteIcon.addEventListener('click', function(event) {
+            event.stopPropagation(); // Prevent task click event
             deleteTask(task.id);
         });
         li.appendChild(deleteIcon); 
