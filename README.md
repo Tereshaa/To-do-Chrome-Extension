@@ -6,9 +6,6 @@ Tired of switching tabs to manage your tasks? Introducing a sleek Chrome extensi
 
 ## Installation Instructions
 
-### Prerequisites
-- Google Chrome Browser
-
 ### Directions to Use This Chrome Extension:
 
 1. **Go to Your Chrome Extensions:**
